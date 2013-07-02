@@ -8,4 +8,4 @@ Verhuis naar GitHub om bijdrages te vergemakkelijken.
 
 Voorbeeld Flyers:
 
-![osmflyer1](http://raw.github.com/xivk/osm-flyer-dutch/master/osmflyer1.png)
+![osmflyer1](osmflyer1.png)
