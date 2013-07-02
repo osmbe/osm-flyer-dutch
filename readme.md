@@ -6,6 +6,8 @@ http://svn.openstreetmap.org/misc/pr_material/dutch_flyer_2013_02/
 
 Verhuis naar GitHub om bijdrages te vergemakkelijken.
 
-Voorbeeld Flyers:
+Screenshots Flyer:
 
 ![osmflyer1](osmflyer1.png)
+
+![osmflyer2](osmflyer2.png)
