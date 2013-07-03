@@ -2060,9 +2060,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92061852"
-     inkscape:cx="995.17033"
-     inkscape:cy="181.68951"
+     inkscape:zoom="1.841237"
+     inkscape:cx="318.20007"
+     inkscape:cy="127.22738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="316mm"
@@ -2195,14 +2195,14 @@
      inkscape:label="background"
      style="display:inline">
     <image
-       sodipodi:absref="C:\WORK\svn\berlin-background-blaugrau.png"
+       sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       y="17.716511"
-       x="-261.03812"
-       id="image2738"
-       height="407.21207"
+       style="display:inline"
        width="1417.6224"
-       style="display:inline" />
+       height="407.21207"
+       id="image2738"
+       x="-261.03812"
+       y="17.716511" />
   </g>
   <g
      inkscape:label="flyer"
@@ -2210,16 +2210,16 @@
      id="layer1"
      style="display:inline">
     <image
-       sodipodi:absref="C:\WORK\svn\globe_part_halo.png"
+       sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
-       width="327.56903"
-       height="396.18701"
-       id="image2726"
+       y="18.812498"
        x="767.08722"
-       y="18.812498" />
+       id="image2726"
+       height="396.18701"
+       width="327.56903"
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -2276,7 +2276,7 @@
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
            ry="0" /></flowRegion><flowPara
          style="font-size:8.97127342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
-         id="flowPara3259">De engelstalge editie van het boek &quot;OpenStreetMap - Using and Enhancing the free Map of the World&quot; door Frederik Ramm, Jochem Topf en Steve Chilton (UIT Cambridge) kan je bestellen op de website www.openstreetmap.info. </flowPara></flowRoot>    <rect
+         id="flowPara3259">De engelstalige editie van het boek 'OpenStreetMap - Using and Enhancing the free Map of the World' door Frederik Ramm, Jochem Topf en Steve Chilton (UIT Cambridge) kan je bestellen op de website www.openstreetmap.info. </flowPara></flowRoot>    <rect
        style="fill:none;stroke:#40406d;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
        id="rect5375"
        width="496.76749"
@@ -2364,7 +2364,7 @@
        inkscape:export-ydpi="400">
       <image
          sodipodi:absref="C:\WORK\svn\buchcover.png"
-         xlink:href="buchcover.png"
+         xlink:href="C:\WORK\svn\buchcover.png"
          inkscape:export-ydpi="400.01047"
          inkscape:export-xdpi="400.01047"
          inkscape:export-filename="/tmp/1.png"
@@ -2392,19 +2392,19 @@
        inkscape:export-xdpi="400"
        inkscape:export-ydpi="400" />
     <image
-       sodipodi:absref="C:\WORK\svn\osm.png"
+       sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\osm.png"
        xlink:href="osm.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
-       inkscape:transform-center-y="0.0650818"
-       inkscape:transform-center-x="1.7791254"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
-       width="71.127243"
-       height="71.127243"
-       id="image2836"
+       y="274.80225"
        x="832.98285"
-       y="274.80225" />
+       id="image2836"
+       height="71.127243"
+       width="71.127243"
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       inkscape:transform-center-x="1.7791254"
+       inkscape:transform-center-y="0.0650818"
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:119.00000572%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3439,7 +3439,7 @@
          sodipodi:role="line"
          x="305.09732"
          y="346.06671"
-         id="tspan4655">licentie, OpenDatabaseLicence (ODbl 1.0) en dit is dan </tspan><tspan
+         id="tspan4655">licentie, Open Database Licence (ODbl) v1.0 en dit is dan </tspan><tspan
          sodipodi:role="line"
          x="305.09732"
          y="358.56671"
