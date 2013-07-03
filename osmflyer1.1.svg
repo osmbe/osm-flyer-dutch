@@ -20,7 +20,7 @@
    sodipodi:docname="osmflyer1.1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline"
-   inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+   inkscape:export-filename="C:\WORK\git\OsmFlyer\Dutch\osmflyer1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -2061,7 +2061,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.841237"
-     inkscape:cx="318.20007"
+     inkscape:cx="863.92605"
      inkscape:cy="127.22738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2185,7 +2185,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2197,12 +2197,12 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       style="display:inline"
-       width="1417.6224"
-       height="407.21207"
-       id="image2738"
+       y="17.716511"
        x="-261.03812"
-       y="17.716511" />
+       id="image2738"
+       height="407.21207"
+       width="1417.6224"
+       style="display:inline" />
   </g>
   <g
      inkscape:label="flyer"
@@ -2212,14 +2212,14 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       y="18.812498"
-       x="767.08722"
-       id="image2726"
-       height="396.18701"
-       width="327.56903"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-ydpi="400"
        inkscape:export-xdpi="400"
-       inkscape:export-ydpi="400" />
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       width="327.56903"
+       height="396.18701"
+       id="image2726"
+       x="767.08722"
+       y="18.812498" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -2394,17 +2394,17 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\osm.png"
        xlink:href="osm.png"
-       y="274.80225"
-       x="832.98285"
-       id="image2836"
-       height="71.127243"
-       width="71.127243"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
-       inkscape:transform-center-x="1.7791254"
-       inkscape:transform-center-y="0.0650818"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-ydpi="400"
        inkscape:export-xdpi="400"
-       inkscape:export-ydpi="400" />
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:transform-center-y="0.0650818"
+       inkscape:transform-center-x="1.7791254"
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       width="71.127243"
+       height="71.127243"
+       id="image2836"
+       x="832.98285"
+       y="274.80225" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:119.00000572%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

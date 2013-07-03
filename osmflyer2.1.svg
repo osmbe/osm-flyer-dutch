@@ -18,7 +18,7 @@
    version="1.0"
    sodipodi:docname="osmflyer2.1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+   inkscape:export-filename="C:\WORK\git\OsmFlyer\Dutch\osmflyer2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -204,27 +204,27 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
-       width="1409.6063"
-       height="407.48032"
-       id="image3047"
-       x="-183.63786"
+       style="display:inline"
        y="17.716511"
-       style="display:inline" />
+       x="-183.63786"
+       id="image3047"
+       height="407.48032"
+       width="1409.6063"
+       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\./gps-screenshot-327.png"
        xlink:href="./gps-screenshot-327.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
-       y="242.10844"
-       x="55.853401"
-       id="image3002"
-       height="60"
+       style="display:inline"
        width="40"
-       style="display:inline" />
+       height="60"
+       id="image3002"
+       x="55.853401"
+       y="242.10844"
+       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
   </g>
   <g
      inkscape:label="flyer"
@@ -1250,14 +1250,14 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\./abzeichnen.png"
        xlink:href="./abzeichnen.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
-       y="49.628628"
-       x="836.18811"
-       id="image3010"
+       width="233.923"
        height="343.91879"
-       width="233.923" />
+       id="image3010"
+       x="836.18811"
+       y="49.628628"
+       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
@@ -1790,27 +1790,27 @@
          id="flowPara3337" /></flowRoot>    <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\./garmin_62st_empty.png"
        xlink:href="./garmin_62st_empty.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
-       y="190.44273"
-       x="45.409508"
-       id="image3030"
-       height="166.57401"
+       style="display:inline"
        width="61.353943"
-       style="display:inline" />
+       height="166.57401"
+       id="image3030"
+       x="45.409508"
+       y="190.44273"
+       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\./gps-screenshot-442.png"
        xlink:href="./gps-screenshot-442.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
-       y="244.85727"
-       x="55.853401"
-       id="image3016"
-       height="59.999996"
+       style="display:inline"
        width="40"
-       style="display:inline" />
+       height="59.999996"
+       id="image3016"
+       x="55.853401"
+       y="244.85727"
+       inkscape:export-filename="C:\WORK\svn\osmflyer2.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
