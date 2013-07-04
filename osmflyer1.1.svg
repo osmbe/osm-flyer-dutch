@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1119.6851"
-   height="442.91336"
+   width="1048"
+   height="372.03"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
@@ -49,7 +49,8 @@
          sodipodi:nodetypes="cscscscscscscscscscscscscscscscsc"
          style="opacity:0.03913042;fill:url(#linearGradient8754-9);fill-opacity:1;stroke:none"
          d="m 9,22.578406 c 0,0 7.5,12.393417 11.75,26.799687 C 25,63.784363 27,74.372608 27,74.372608 c 0,0 -5.5,13.194827 -8.25,25.417241 C 16,112.01226 13,123.2549 13,123.2549 c 0,0 5.75,15.53495 9.25,29.25188 3.5,13.71692 3.75,23.94671 3.75,23.94671 0,0 -4,10.57351 -7.5,24.85658 -3.5,14.28307 -5,31.15439 -5,31.15439 0,0 9.25,-2.74812 28.5,-1.05502 19.25,1.69311 32.25,3.3917 32.25,3.3917 0,0 12.75,-3.78119 24,-8.19107 11.25,-4.40987 16.25,-7.81426 16.25,-7.81426 0,0 5.5,0.0552 22.5,4.43025 17,4.37508 29.25,6.13433 29.25,6.13433 0,0 13,-3.80141 26,-7.85282 13,-4.05141 26.5,-10.14326 26.5,-10.14326 0,0 -0.75,-4.93934 4.25,-24.84373 5,-19.90438 8.75,-28.70768 8.75,-28.70768 0,0 -0.5145,-4.4553 -3.75,-19.4467 -1.75,-8.10847 -2.25,-4.06803 -2.25,-4.06803 0,0 16.264,-26.15535 16.5,-40.334481 C 242.5,78.94347 235,57.550053 235,57.550053 c 0,0 -4.75,-14.865832 -7.5,-29.143418 -2.75,-14.277586 -8.25,-25.0827591 -8.25,-25.0827591 0,0 -24.25,10.9612831 -31.75,13.0678661 -7.5,2.106582 -21,6.948431 -21,6.948431 0,0 -9.75,-3.461443 -22,-6.720691 -12.25,-3.259249 -29.75,-3.09389 -29.75,-3.09389 0,0 -3.25,3.762853 -22,9.779309 -18.75,6.016456 -27.5,7.974136 -27.5,7.974136 0,0 -18.5,-7.503763 -31.5,-8.952353 -13,-1.448591 -24,-0.05894 -24.75,0.251722 z"
-         id="path8752-0" />
+         id="path8752-0"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <radialGradient
        r="47"
@@ -69,7 +70,8 @@
          sodipodi:nodetypes="csssc"
          id="path8619-6"
          d="m 123.62289,141.06193 c 20.83191,20.24317 54.6071,19.28863 75.439,-2.132 20.8319,-21.42064 20.8319,-55.195816 0,-75.438984 -20.83191,-20.243167 -54.60709,-19.288643 -75.439,2.131999 -20.83189,21.42063 -20.8319,55.195815 0,75.438985 z"
-         style="fill:url(#radialGradient8621-6);fill-opacity:1;stroke:none" />
+         style="fill:url(#radialGradient8621-6);fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        id="linearGradient5745-3-1-5">
@@ -130,7 +132,8 @@
       <path
          id="path5428-0-9-4"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath5383-0-0-2"
@@ -138,7 +141,8 @@
       <path
          id="path5385-7-8-3"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath5466-2-3-4"
@@ -146,7 +150,8 @@
       <path
          id="path5468-3-2-6"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        id="linearGradient4680-2-3">
@@ -291,7 +296,8 @@
       <path
          id="path5468-1"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath5426-0"
@@ -299,7 +305,8 @@
       <path
          id="path5428-07"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath5383-4"
@@ -307,7 +314,8 @@
       <path
          id="path5385-0"
          d="m 9,12.25 c 0,0 7.5,13 11.75,27.75 C 25,54.75 27,65.5 27,65.5 c 0,0 -5.5,12.75 -8.25,24.75 -2.75,12 -5.75,23 -5.75,23 0,0 5.75,16 9.25,30 3.5,14 3.75,24.25 3.75,24.25 0,0 -4,10.25 -7.5,24.25 -3.5,14 -5,30.75 -5,30.75 0,0 9.25,-2 28.5,1.25 19.25,3.25 32.25,6 32.25,6 0,0 12.75,-2.75 24,-6.25 11.25,-3.5 16.25,-6.5 16.25,-6.5 0,0 5.5,0.5 22.5,6.25 17,5.75 29.25,8.5 29.25,8.5 0,0 13,-2.75 26,-5.75 13,-3 26.5,-8 26.5,-8 0,0 -0.75,-5 4.25,-24.5 5,-19.5 8.75,-28 8.75,-28 0,0 -0.5,-4.5 -3.75,-19.75 C 224.75,130.5 218,116 218,116 c 0,0 1.75,-10.5 6.75,-23.75 C 229.75,79 235,65.5 235,65.5 c 0,0 -4.75,-15.25 -7.5,-29.75 C 224.75,21.25 219.25,10 219.25,10 c 0,0 -24.25,9 -31.75,10.5 -7.5,1.5 -21,5.25 -21,5.25 0,0 -9.75,-4.25 -22,-8.5 -12.25,-4.25 -29.75,-5.5 -29.75,-5.5 0,0 -3.25,3.5 -22,8 -18.75,4.5 -27.5,5.75 -27.5,5.75 0,0 -18.5,-9 -31.5,-11.5 -13,-2.5 -24,-2 -24.75,-1.75 z"
-         style="fill:#ceeeab;fill-opacity:1;stroke:none" />
+         style="fill:#ceeeab;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        id="linearGradient4744-9-7"
@@ -2053,21 +2061,21 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#e1f3fa"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#66ff00"
+     borderopacity="1"
      gridtolerance="50"
      guidetolerance="10"
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.841237"
-     inkscape:cx="863.92605"
-     inkscape:cy="127.22738"
+     inkscape:zoom="0.45403465"
+     inkscape:cx="585.39051"
+     inkscape:cy="180.83959"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      width="316mm"
      height="125mm"
-     units="mm"
+     units="px"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:guide-points="true"
@@ -2079,102 +2087,107 @@
      inkscape:object-paths="false"
      inkscape:grid-bbox="false"
      showgrid="false"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     fit-margin-top="-200"
+     fit-margin-left="-236"
+     fit-margin-right="-236"
+     fit-margin-bottom="-200"
+     borderlayer="true">
     <sodipodi:guide
        orientation="vertical"
-       position="0"
+       position="-36,-35.44456"
        id="guide2160" />
     <sodipodi:guide
        orientation="vertical"
-       position="17.716535"
+       position="-18.28347,-35.44456"
        id="guide2162" />
     <sodipodi:guide
        orientation="vertical"
-       position="35.433071"
+       position="-0.56693,-35.44456"
        id="guide2164" />
     <sodipodi:guide
        orientation="vertical"
-       position="297.6378"
+       position="261.6378,-35.44456"
        id="guide2166" />
     <sodipodi:guide
        orientation="vertical"
-       position="559.84252"
+       position="523.84252,-35.44456"
        id="guide2168" />
     <sodipodi:guide
        orientation="vertical"
-       position="822.04724"
+       position="786.04735,-35.44456"
        id="guide2170" />
     <sodipodi:guide
        orientation="vertical"
-       position="1101.9685"
+       position="1065.9686,-35.44456"
        id="guide2174" />
     <sodipodi:guide
        orientation="vertical"
-       position="1119.685"
+       position="1083.6851,-35.44456"
        id="guide2176" />
     <sodipodi:guide
        orientation="vertical"
-       position="1084.252"
+       position="1048.2521,-35.44456"
        id="guide2178" />
     <sodipodi:guide
        orientation="horizontal"
-       position="0"
+       position="-36,-35.44456"
        id="guide2182" />
     <sodipodi:guide
        orientation="horizontal"
-       position="17.716535"
+       position="-36,-17.72803"
        id="guide2184" />
     <sodipodi:guide
        orientation="horizontal"
-       position="35.433071"
+       position="-36,-0.01149"
        id="guide2186" />
     <sodipodi:guide
        orientation="horizontal"
-       position="407.48031"
+       position="-36,372.03575"
        id="guide2188" />
     <sodipodi:guide
        orientation="horizontal"
-       position="425.19685"
+       position="-36,389.75229"
        id="guide2190" />
     <sodipodi:guide
        orientation="horizontal"
-       position="442.91339"
+       position="-36,407.46883"
        id="guide2192" />
     <sodipodi:guide
        orientation="horizontal"
-       position="378"
+       position="-36,342.55544"
        id="guide2549" />
     <sodipodi:guide
        orientation="vertical"
-       position="49.606299"
+       position="13.6063,-35.44456"
        id="guide3686" />
     <sodipodi:guide
        orientation="vertical"
-       position="283.46457"
+       position="247.46457,-35.44456"
        id="guide3688" />
     <sodipodi:guide
        orientation="horizontal"
-       position="393.30709"
+       position="-36,357.86253"
        id="guide3690" />
     <sodipodi:guide
        orientation="horizontal"
-       position="49.606299"
+       position="-36,14.16174"
        id="guide3692" />
     <sodipodi:guide
        orientation="vertical"
-       position="574.01575"
+       position="538.01575,-35.44456"
        id="guide3927" />
     <sodipodi:guide
        orientation="vertical"
-       position="545.66929"
+       position="509.66929,-35.44456"
        id="guide3929" />
     <sodipodi:guide
        orientation="vertical"
-       position="808.62337"
+       position="772.62345,-35.44456"
        id="guide3931" />
     <sodipodi:guide
        orientation="vertical"
-       position="311.81102"
+       position="275.81102,-35.44456"
        id="guide3933" />
   </sodipodi:namedview>
   <metadata
@@ -2185,7 +2198,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2193,33 +2206,35 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="background"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-36,-35.43875)">
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       y="17.716511"
-       x="-261.03812"
-       id="image2738"
-       height="407.21207"
+       style="display:inline"
        width="1417.6224"
-       style="display:inline" />
+       height="407.21207"
+       id="image2738"
+       x="-261.03812"
+       y="17.716511" />
   </g>
   <g
      inkscape:label="flyer"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-36,-35.43875)">
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
-       width="327.56903"
-       height="396.18701"
-       id="image2726"
+       y="18.812498"
        x="767.08722"
-       y="18.812498" />
+       id="image2726"
+       height="396.18701"
+       width="327.56903"
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -2394,17 +2409,17 @@
     <image
        sodipodi:absref="C:\WORK\git\OsmFlyer\Dutch\osm.png"
        xlink:href="osm.png"
-       inkscape:export-ydpi="400"
-       inkscape:export-xdpi="400"
-       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
-       inkscape:transform-center-y="0.0650818"
-       inkscape:transform-center-x="1.7791254"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
-       width="71.127243"
-       height="71.127243"
-       id="image2836"
+       y="274.80225"
        x="832.98285"
-       y="274.80225" />
+       id="image2836"
+       height="71.127243"
+       width="71.127243"
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       inkscape:transform-center-x="1.7791254"
+       inkscape:transform-center-y="0.0650818"
+       inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:119.00000572%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3409,10 +3424,10 @@
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
            ry="0" /></flowRegion><flowPara
          style="font-size:8.97127342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
-         id="flowPara3259-9">De beste manier om te starten met OpenStreetMap is door kennis te maken met de community en te leren van je collega-mappers. Contacteer ons via talk-be@openstreetmap.org of volg @osm_be op twitter.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3259-9">De beste manier om te starten met OpenStreetMap is door kennis te maken met de community en te leren van je collega-mappers. Contacteer ons via wiki.openstreetmap.org/wiki/Belgium of volg @osm_be op twitter.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4629"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
        inkscape:export-xdpi="400"
        inkscape:export-ydpi="400"><flowRegion
@@ -3439,7 +3454,7 @@
          sodipodi:role="line"
          x="305.09732"
          y="346.06671"
-         id="tspan4655">licentie, Open Database Licence (ODbl) v1.0 en dit is dan </tspan><tspan
+         id="tspan4655">licentie, Open Database Licence (ODbL) v1.0 en dit is dan </tspan><tspan
          sodipodi:role="line"
          x="305.09732"
          y="358.56671"
@@ -3469,7 +3484,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4686"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        inkscape:export-filename="C:\WORK\svn\osmflyer1.png"
        inkscape:export-xdpi="400"
        inkscape:export-ydpi="400"><flowRegion
@@ -3520,7 +3535,8 @@
      id="layer3"
      inkscape:label="markings"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-36,-35.43875)">
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -3665,7 +3681,8 @@
      id="layer2"
      inkscape:label="mask_all"
      style="opacity:0.85;display:none"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-36,-35.43875)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 0,0 z m 235.4375,200 1048.8125,0 0,372.03125 -1048.8125,0 0,-372.03125 z"
@@ -3677,7 +3694,8 @@
      id="layer4"
      inkscape:label="mask_front"
      style="opacity:0.85;display:none"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-36,-35.43875)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 z m 1022.0625,200 262.1875,0 0,372.03125 -262.1875,0 0,-372.03125 z"
